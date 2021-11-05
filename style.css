@@ -124,7 +124,7 @@ background-image: url(images/icon-work.svg);
     background-color: var(--red-200);
     background-image: url(images/icon-study.svg);
 }
-.dashboard__item--expercise {
+.dashboard__item--exercise {
     background-color: var(--green-100);
     background-image: url(images/icon-exercise.svg);
 }
